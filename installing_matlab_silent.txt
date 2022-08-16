@@ -1,2 +1,0 @@
-./install -mode silent -agreeToLicense yes  -fileInstallationKey '' -destinationFolder '/usr/local/MATLAB/Matlab2015b' -licensePath ''
-
